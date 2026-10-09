@@ -11,6 +11,7 @@ namespace Vjezba1
         static void Main(string[] args)
         {
             string izbor = "";
+            
             do
             {
                 Console.WriteLine("1. zadatak");
@@ -43,7 +44,9 @@ namespace Vjezba1
         }
         static void Zad01()
         {
-            Console.WriteLine("Zadatak 1");
+            int zbroj(int a, int b);
+            int zbroj = 0;
+       
         }
         static void Zad02()
         {
