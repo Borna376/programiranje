@@ -1,0 +1,8 @@
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\bin\Debug\Vjezba1.exe.config
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\bin\Debug\Vjezba1.exe
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\bin\Debug\Vjezba1.pdb
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\obj\Debug\Vjezba1.csproj.AssemblyReference.cache
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\obj\Debug\Vjezba1.csproj.CoreCompileInputs.cache
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\obj\Debug\Vjezba1.exe
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\obj\Debug\Vjezba1.pdb
+D:\Borna Biga\ProgramiranjeGIT\programiranje\Vjezba1\obj\Debug\Vjezba1.exe.config
